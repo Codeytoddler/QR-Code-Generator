@@ -9,7 +9,7 @@ Follow these steps to execute the JavaScript file and generate a QR code image:
 **Step 1: Clone the Repository**
 Clone this repository to your local machine using the following command:
 
-git clone https://github.com/Codeytoddler/QR-Code-Generator.git
+git clone https://codeytoddler.github.io/QR-Code-Generator/
 
 
 **Step 2: Install Dependencies**
